@@ -5,10 +5,10 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Software+Engineering+student)](https://git.io/typing-svg)
 
-* Constantly trying to be better than before. 🧠
-* Studying Software Engineering at Estácio University. 👨‍🎓
-* Studying Software Analysis and Development at Unisuam University. 👨‍🎓
-* Full scholarship student at all universities. 🎉
+Constantly striving to be better than before. 🧠
+* Studying Systems Analysis and Development at Unisuan University. 👨‍🎓
+* Professional Career Transition
+* Believing in my efforts to overcome barriers and become the best.
 
 ## 🌐 Socials:
 
