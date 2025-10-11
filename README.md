@@ -5,21 +5,21 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Software+Engineering+student)](https://git.io/typing-svg)
 
-* Constantly trying to be better than before. 🧠
-* Studying Software Engineering at Estácio University. 👨‍🎓
-* Studying Software Analysis and Development at Unisuam University. 👨‍🎓
-* Full scholarship student at all universities. 🎉
+Constantly striving to be better than before. 🧠
+* Studying Systems Analysis and Development at Unisuan University. 👨‍🎓
+* Professional Career Transition
+* Believing in my efforts to overcome barriers and become the best.
 
 ## 🌐 Socials:
 
 <div style="text-align: center;">
-    <a href="https://www.instagram.com/_vich.lopes/">
+    <a href="https://www.instagram.com/marcelolima0878?">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.linkedin.com/in/victor-hugo-dev-/">
+    <a href="https://www.linkedin.com/in/clayton-marcelo-270602352?">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://victorhlf42.github.io/VictorHLF42/curriculo_victor_hugo_lopes.PDF" target="_blank">
+    <a href="https://github.com/Claytonmarcelo" target="_blank">
         <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-1E46FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo">
     </a>
 </div>
