@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Clayton Marcelo</h1>
 <h3 align="center">Fascinado por tecnologia, analise de dados no mundo digital.</h3>
 
-- 🔭 Projetos realizados em grupo através da faculdade [Fitplan Academy](git@github.com:Claytonmarcelo/fitplan_academy.git)
+- 🔭 Projetos realizados em grupo através da faculdade [Fitplan Academy](https://github.com/Claytonmarcelo/fitplan_academy)
 
 - 🌱 Atualmente estou aprendendo **Python, JavaScript (Node.js) e MySql & PHP**
 
