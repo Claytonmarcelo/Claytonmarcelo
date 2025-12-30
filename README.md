@@ -26,9 +26,10 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+Clayton+Marcelo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Software+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=I+am+a+Software+Engineering+student+focused+on+learning+and+growth.)](https://git.io/typing-svg)
+
 
 Constantly striving to be better than before. 🧠
 * Studying Systems Analysis and Development at Unisuan University. 👨‍🎓
