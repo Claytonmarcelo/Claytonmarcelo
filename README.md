@@ -71,9 +71,8 @@ Constantly striving to be better than before. 🧠
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=Olá%2C+meu+nome+é+Clayton+Marcelo.;Sou+estudante+de+Análise+de+Sistemas.;Apaixonado+por+tecnologia+e+aprendizado+contínuo.)](https://git.io/typing-svg)
 
 * Sempre tentando ser melhor do que antes. 🧠
-* Estudando Engenharia de Software na Universidade Estácio. 👨‍🎓
+* Em transição de carreira, me dedicando a cada dia buscando evolução. 👨‍🎓
 * Estudando Análise e Desenvolvimento de Sistemas na Universidade Unisuam. 👨‍🎓
-* Estudante com bolsa integral em todas as universidades. 🎉
 
 ## 🌐 Redes Sociais:
 
