@@ -49,14 +49,16 @@ Constantly striving to be better than before. 🧠
 
 # My Stack
 
-Here are some of my skills:
+<h3>🛠️ Tecnologias & Ferramentas</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=azure" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+</p>
  
 </p>
 
