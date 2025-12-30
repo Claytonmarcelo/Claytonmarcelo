@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Clayton Marcelo</h1>
 <h3 align="center">Fascinado por tecnologia, analise de dados no mundo digital.</h3>
 
-- 🔭 Atualmente estou estudando e desenvolvendo sistemas [Pedido agora (feito em grupo)](https://github.com/edufilhocruz/pedidoagora.git)
+- 🔭 Projetos realizados em grupo através da faculdade [Pedido agora (feito em grupo)](https://github.com/edufilhocruz/pedidoagora.git)
 
 - 🌱 Atualmente estou aprendendo **Python, JavaScript (Node.js) e MySql & PHP**
 
