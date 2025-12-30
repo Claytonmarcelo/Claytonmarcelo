@@ -2,7 +2,7 @@
 <h3 align="center">Fascinado por tecnologia, analise de dados no mundo digital.</h3>
 
 - 🔭 Atualmente estou estudando e desenvolvendo sistemas [Pedido agora (feito em grupo)](https://github.com/edufilhocruz/pedidoagora.git)
-- 
+
 - 🌱 Atualmente você aprendeu **Python, Java, JavaScript (Node.js) e MySQlPHP**
 
 - 👯 Tenho um canal no Youtube [Trabalhos acadêmicos e projetos](https://www.youtube.com/@c.marcelodev.brasil)
