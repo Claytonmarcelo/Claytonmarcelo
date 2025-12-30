@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando e desenvolvendo sistemas [Pedido agora (feito em grupo)](https://github.com/edufilhocruz/pedidoagora.git)
 
-- 🌱 Atualmente estou aprendendo **Python, Java, JavaScript (Node.js) e MySQlPHP**
+- 🌱 Atualmente estou aprendendo **Python, Java, JavaScript (Node.js) e MySQ & PHP**
 
 - 👯 Tenho um canal no Youtube [Trabalhos acadêmicos e projetos](https://www.youtube.com/@c.marcelodev.brasil)
 
