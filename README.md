@@ -66,10 +66,7 @@ Here are some of my skills:
 <img width="100%" style="margin-bottom:50px" src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Olá%2C+meu+nome+é+Clayton+Marcelo)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Sou+estudante+de+Engenharia+de+Software)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=Olá%2C+meu+nome+é+Clayton+Marcelo.;Sou+estudante+de+Engenharia+de+Software.;Apaixonado+por+tecnologia+e+aprendizado+contínuo.)](https://git.io/typing-svg)
 
 * Sempre tentando ser melhor do que antes. 🧠
 * Estudando Engenharia de Software na Universidade Estácio. 👨‍🎓
