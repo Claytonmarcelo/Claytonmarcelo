@@ -3,7 +3,7 @@
 
 - 🔭 Projetos realizados em grupo através da faculdade [Fitplan Academy](https://github.com/Claytonmarcelo/fitplan_academy)
 
-- 🌱 Atualmente estou aprendendo **Python, JavaScript (Node.js) e MySql & PHP**
+- 🌱 Atualmente estou aprendendo **Python, JavaScript, Node.js, MySql & PHP**
 
 - 👯 Tenho um canal no Youtube [Trabalhos acadêmicos e projetos](https://www.youtube.com/@c.marcelodev.brasil)
 
