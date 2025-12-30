@@ -90,39 +90,14 @@ Constantly striving to be better than before. 🧠
 
 # Minha Stack
 
-Aqui estão algumas das minhas habilidades:
+<h3 align="center">🛠️ Aqui estão algumas das minhas habilidades:</h3>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=azure" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
 </p>
-
-</details>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVictorHLF42&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--<div aling="center">
-
-![Ashutoshs github activity_graph].(https://ssr-contributions-svg.vercel.app/_/VictorHLF42?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=green)
-
-<div/>
-
-
-<div aling="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorHLF42&theme=violet-punch)](https://git.io/streak-stats)
-
-<div/>
-
