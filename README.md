@@ -62,10 +62,6 @@
          alt="php" width="40" height="40"/>
   </a>
 
-  <a href="https:
-
-
-
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
 <br>
 
