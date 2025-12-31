@@ -74,18 +74,6 @@ Constantly striving to be better than before. 🧠
 * Professional Career Transition
 * Believing in my efforts to overcome barriers and become the best.
 
-## 🌐 Socials:
-
-<div style="text-align: center;">
-    <a href="https://www.instagram.com/marcelolima0878/">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/Instagram-1E46FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/clayton-marcelo-270602352/">
-        <img style="margin: 5px; border-radius: 5px;" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-1E46FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-        </a>
-</div>
-
 # My Stack
 
 <h3>🛠️ Tecnologias & Ferramentas</h3>
