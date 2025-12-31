@@ -95,7 +95,7 @@ Constantly striving to be better than before. 🧠
 <img width="100%" style="margin-bottom:50px" src="https://github.com/user-attachments/assets/557f84ae-df35-4b64-9bec-e0ba190d4f58"/>  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=Olá%2C+meu+nome+é+Clayton+Marcelo.;Sou+estudante+de+Análise+de+Sistemas.;Apaixonado+por+tecnologia+e+aprendizado.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=Olá%2C+meu+nome+é+Clayton+Marcelo.;Sou+estudante+de+Análise+de+Sistemas.;Apaixonado+por+tecnologia+,gosto+muito+de+aprender.)](https://git.io/typing-svg)
 
 * Sempre tentando ser melhor do que antes. 🧠
 * Em transição de carreira, me dedicando a cada dia buscando evolução. 👨‍🎓
