@@ -3,6 +3,8 @@
 
 - 📝 Projetos realizados em grupo através da faculdade [Pedido Agora](https://github.com/Claytonmarcelo/pedidoagora-main/tree/main) | [Fitplan Academy](https://github.com/Claytonmarcelo/fitplan_academy)
 
+- 🧑‍💻 Meus projetos passoais e desenvolvimentos acadêmicos [foodexpress](https://github.com/claytonmarcelo/foodexpress)
+
 - 📚 Atualmente estou aprendendo **Python, JavaScript, Node.js, MySql & PHP**
 
 - ▶️ Tenho um canal no Youtube [Trabalhos acadêmicos e projetos](https://www.youtube.com/@c.marcelodev.brasil)
