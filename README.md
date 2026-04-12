@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/claytonmarcelo/claytonmarcelo/main/416471271-557f84ae-df35-4b64-9bec-e0ba190d4f58.png" alt="Banner Mobile Híbrido"/>
+  <img width="100%" src="https://github.com/user-attachments/assets/1566370e-f72f-4886-9975-5380540d5b41">
 </p>
 
 <br>
@@ -63,7 +63,7 @@ Constantly striving to be better than before. 🧠
 <summary>🔽 Clique aqui para ver em Português</summary>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/claytonmarcelo/claytonmarcelo/main/416471271-557f84ae-df35-4b64-9bec-e0ba190d4f58.png" alt="Banner Mobile Híbrido"/>
+  <img width="100%" src="https://github.com/user-attachments/assets/1566370e-f72f-4886-9975-5380540d5b41">
 </p>
 
 <br>
