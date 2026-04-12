@@ -67,12 +67,14 @@
 <img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=22&width=700&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=I+am+a+Systems+Analysis+student+focused+on+learning+and+growth.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=22&width=700&lines=I+am+a+Systems+Analysis+and+Development+student)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=22&width=700&lines=focused+on+mobile+technology+and+databases.)](https://git.io/typing-svg)
 
 Constantly striving to be better than before. 🧠
-* Studying Systems Analysis and Development at Unisuan University. 👨‍🎓
+* Studying Systems Analysis and Development at Unisuam University. 👨‍🎓
 * Professional Career Transition
 * Believing in my efforts to overcome barriers and become the best.
 
@@ -97,7 +99,7 @@ Constantly striving to be better than before. 🧠
 <img width="100%" src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=600&lines=Olá%2C+meu+nome+é+Clayton+Marcelo.;Sou+estudante+de+Análise+de+Sistemas.;Fascinado+por+tecnologia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=22&width=700&lines=Olá%2C+meu+nome+é+Clayton+Marcelo.;Sou+estudante+de+Análise+de+Sistemas.;Fascinado+por+tecnologia.)](https://git.io/typing-svg)
 
 * Sempre tentando ser melhor do que antes. 🧠
 * Em transição de carreira, me dedicando a cada dia buscando evolução. 👨‍🎓
