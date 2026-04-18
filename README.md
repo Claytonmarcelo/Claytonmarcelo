@@ -21,47 +21,7 @@
 
 <h3 align="left">Idiomas e Ferramentas:</h3>
 <p align="left">
-
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  </a>
-
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,nodejs,firebase,sqlite,git,android" />
 </p>
 
 <img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
@@ -78,21 +38,7 @@ Constantly striving to be better than before. 🧠
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter"/>
-  <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="Dart"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React Native"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=android" width="50" height="50" alt="Android"/>
-  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,nodejs,firebase,sqlite,git,android,python,html,css,php,mysql" />
 </p>
 
 <details>
