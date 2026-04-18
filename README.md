@@ -23,7 +23,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,nodejs,firebase,sqlite,git,android" />
 </p>
-
 <img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
