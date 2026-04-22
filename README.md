@@ -3,7 +3,7 @@
 
 - 📝 Projetos realizados em grupo através da faculdade [Pedido Agora](https://github.com/Claytonmarcelo/pedidoagora-main/tree/main) | [Fitplan Academy](https://github.com/Claytonmarcelo/fitplan_academy)
 
-- 🧑‍💻 Meus projetos pessoais e desenvolvimentos acadêmicos [foodexpress](https://github.com/claytonmarcelo/foodexpress) | [M-Food-Delivery](https://github.com/claytonmarcelo/M-Food-Delivery) | [FleetPulse](https://github.com/claytonmarcelo/FleetPulse) | [Nexus-Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) | [Petit-Vet](https://github.com/claytonmarcelo/Petit-Vet)
+- 🧑‍💻 Meus projetos pessoais e desenvolvimentos acadêmicos [foodexpress](https://github.com/claytonmarcelo/foodexpress) | [M-Food-Delivery](https://github.com/claytonmarcelo/M-Food-Delivery) | [FleetPulse](https://github.com/claytonmarcelo/FleetPulse) | [Nexus-Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) | [Petit-Vet](https://github.com/claytonmarcelo/Petit-Vet) | [Infinite-Atari](https://github.com/claytonmarcelo/Infinite-Atari)
 
 - 📚 Atualmente estou aprendendo **Multiplataforma (Híbrido) (Android/iOS), Flutter (Dart), React Native, (JavaScript/TypeScript), Node.js**
 
